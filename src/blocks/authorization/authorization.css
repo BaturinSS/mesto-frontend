@@ -1,0 +1,17 @@
+.authorization {
+  width: 358px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 60px auto 0;
+  padding: 0;
+  transition: 0.7s;
+  /* border: 1px solid red; */
+}
+
+@media screen and (max-width: 420px) {
+  .authorization {
+    width: 260px;
+    margin: 40px auto 0;
+  }
+}

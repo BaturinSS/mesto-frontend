@@ -1,0 +1,16 @@
+.menu {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  border-bottom: 1px solid #545454;
+  margin: 0 0 27px;
+  padding: 0;
+  transition: 0.8s;
+  /* border: 1px solid red; */
+}
+
+@media screen and (max-width: 450px) {
+  .menu {
+    display: flex;
+  }
+}

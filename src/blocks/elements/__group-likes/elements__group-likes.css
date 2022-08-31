@@ -1,0 +1,9 @@
+.elements__group-likes {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  right: 20px;
+  bottom: 21px;
+  /* border: 1px solid red; */
+}

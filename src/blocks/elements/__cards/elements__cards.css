@@ -1,0 +1,19 @@
+.elements__cards {
+  min-width: 100%;
+  min-height: 362px;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  justify-content: flex-start;
+  grid-template-columns: repeat(auto-fit, minmax(282px, 0.3fr));
+  grid-auto-flow: row;
+  gap: 20px 17px;
+  list-style-type: none;
+  /*border: 1px solid rgb(93, 231, 13);*/
+}
+
+@media screen and (max-width: 917px) {
+  .elements__cards {
+    justify-content: center;
+  }
+}

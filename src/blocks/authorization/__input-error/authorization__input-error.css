@@ -1,0 +1,13 @@
+.authorization__input-error {
+  min-height: 27px;
+  padding: 3px 0 0;
+  visibility: hidden;
+  opacity: 0;
+  margin: 0;
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #ff000086;
+}

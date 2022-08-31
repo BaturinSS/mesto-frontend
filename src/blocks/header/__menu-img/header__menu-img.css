@@ -1,0 +1,13 @@
+.header__menu-img {
+  display: none;
+  width: 24px;
+  border-bottom: 3px solid #FFFFFF;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 450px) {
+  .header__menu-img {
+    display: flex;
+  }
+}

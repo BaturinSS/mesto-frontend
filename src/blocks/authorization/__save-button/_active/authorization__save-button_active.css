@@ -1,0 +1,4 @@
+.authorization__save-button_active:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}

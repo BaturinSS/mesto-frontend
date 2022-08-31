@@ -1,0 +1,26 @@
+.authorization__save-button {
+  height: 50px;
+  background-color: #FFFFFF;
+  border: none;
+  transition: 0.3s;
+  border-radius: 2px;
+  margin: 186px 0 15px;
+  padding: 0;
+  text-align: center;
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  color: #000000;
+  transition: 0.8s;
+}
+
+@media screen and (max-width: 420px) {
+  .authorization__save-button {
+    height: 46px;
+    margin: 143px 0 20px;
+    font-size: 16px;
+    line-height: 19px;
+  }
+}

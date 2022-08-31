@@ -1,0 +1,8 @@
+.elements__image-delete {
+  object-fit: contain;
+  width: 18px;
+  margin: 0;
+  padding: 0;
+  border: none;
+  /*border: 1px solid red;*/
+}

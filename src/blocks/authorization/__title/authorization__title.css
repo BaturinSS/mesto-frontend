@@ -1,0 +1,21 @@
+.authorization__title {
+  margin: 0 0 50px;
+  padding: 0;
+  text-align: center;
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 29px;
+  color: #FFFFFF;
+  transition: 0.7s;
+  /* border: 1px solid red; */
+}
+
+@media screen and (max-width: 380px) {
+  .authorization__title {
+    margin-bottom: 40px;
+    font-size: 20px;
+    line-height: 24px;
+  }
+}

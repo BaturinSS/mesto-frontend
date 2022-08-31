@@ -1,0 +1,15 @@
+.root {
+  min-width: 320px;
+  padding-top: 45px;
+  padding-bottom: 60px;
+  text-rendering: optimizeLegibility;
+  transition: 0.8s;
+  /*border: 1px solid red;*/
+}
+
+@media screen and (max-width: 670px) {
+  .root {
+    padding-top: 28px;
+    padding-bottom: 36px;
+  }
+}
