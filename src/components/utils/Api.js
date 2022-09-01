@@ -8,7 +8,7 @@ class Api {
   _baseUrl = () => {
     let url = '';
     if (this._NODE_ENV === 'production') {
-      url = 'https://api.server-mesto.ru';
+      url = 'https://api.mesto.novo52.ru';
     } else {
       url = 'http://localhost:3000';
     };
