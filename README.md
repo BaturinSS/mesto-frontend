@@ -49,4 +49,4 @@
 
 ### [Ссылка на backend 👈👈👈👈](https://api.mesto.novo52.ru)   
 ### [Ссылка на frontend 👈👈👈👈](https://mesto.novo52.ru)    
-### [GitHub на backend 👈👈👈👈](https://github.com/BaturinSS/mesto-backend)    
+### [GitHub на backend 👈👈👈👈](https://github.com/BaturinSS/mesto-api)    
